@@ -1,4 +1,4 @@
-# DSCI 552 Homework
+# DSCI HW 2
 > By Tianzuo Zhang
 >
 > USC-ID:8849-5991-30
