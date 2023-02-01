@@ -5,6 +5,8 @@
 > 
 > My contact info: [Twitter](https://twitter.com/dvzhangtz) [Linkedin](https://www.linkedin.com/in/tianzuo-zhang/) Wechat: dvzhangtz
 
+## For My code detail: [link](https://github.com/DSCI-552/homework-1-dvzhang/blob/main/scripts/DSCI552_HW1_Tianzuo_Zhang.ipynb)
+
 ## [Data Set](https://archive.ics.uci.edu/ml/datasets/Vertebral+Column)
 
 ### Data Set Information:
